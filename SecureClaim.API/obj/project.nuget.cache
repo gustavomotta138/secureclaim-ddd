@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "sOpl2SvJ5Qw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Luciana\\Documents\\SecureClaim\\SecureClaim.API\\SecureClaim.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Luciana\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Luciana\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
